@@ -1,2 +1,4 @@
-# sql-data-warehouse-project
-Building a Data Warehouse with SQL Server
+# Data Warehouse and Analytics Project
+
+Welcome to **Data Warehouse and Analytics Project** repository
+
